@@ -30,3 +30,17 @@ img.tengah {
 ol{
 	font-size: 25px;
 	color: white;}
+
+ul{
+	border-style: solid;
+	border-color: darkslateblue;
+	color: white;
+	font-size: 18px;
+	font-style: normal;
+	font-family: cursive;}
+
+h3{
+	text-indent: 50px;
+	text-align: center;}
+
+	
